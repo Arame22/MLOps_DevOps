@@ -1,5 +1,4 @@
-# estia-bihar-2024-evaluation
-# Projet Final - Classification d'Images, de Textes et Prévision de Séries Temporelles
+## Classification d'Images, de Textes et Prévision de Séries Temporelles
 ## Description du Projet, de l’Architecture et des Flus de Données
 
 Ce projet consiste en trois sous-projets distincts :
